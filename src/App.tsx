@@ -5,7 +5,7 @@ function App() {
         <h1 className="text-3xl font-bold">SANIPID NEW ERA SRL</h1>
         <section className="mt-4 border-t border-white pt-4">
           <h2 className="text-2xl font-semibold">
-            PLAN DE ACTIVITATE PRIVIND OPERATIUNILE SANIPID LA{' '}
+            PLAN DE ACTIVITATE PRIVIND OPERATIUNILE NEW ERA{' '}
           </h2>
         </section>
         <p className="mt-4 text-sm font-semibold">Incheiat azi: 20.06.23</p>
